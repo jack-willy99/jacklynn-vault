@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Jeky Takanashi Vault</string>
+    <string name="title_activity_main">Jeky Takanashi Vault</string>
+    <string name="package_name">com.jeky.hoshino</string>
+    <string name="custom_url_scheme">com.jeky.hoshino</string>
+</resources>
